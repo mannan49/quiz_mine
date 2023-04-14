@@ -1,0 +1,45 @@
+.practice-mcqs-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.classes-dropdown, .subjects-dropdown, .chapters-dropdown{
+    font-size: 1.5rem;
+    padding: 0.5rem 1rem;
+    border: 2px solid var(--primary-color);
+    border-radius: 0.5rem;
+    margin: 1rem auto;
+    width: 50%;
+}
+.input-container-question{
+    /* background-color: yellow; */
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.input-container-question label{
+    color: var(--ternary-color);
+    font-size: 1.5rem;
+}
+.input-container-question input{
+    font-size: larger;
+    padding: 0.5rem 1rem;
+    border: 2px solid var(--primary-color);
+    border-radius: 0.5rem;
+    width: 50%;
+}
+.input-container-question button{
+    background-color: var(--secondary-color);
+    text-align: center;
+    color: var(--headline-color);
+}
+.choose-quiz{
+    border: 2px solid var(--primary-color);
+    min-width: 40vw;
+    margin: auto;
+    max-height: 55vh;
+    border-radius: 0.5rem;
+}
