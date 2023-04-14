@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/quiz_mine/static/css/main.e4cb0b4f.css",
+    "main.js": "/quiz_mine/static/js/main.c6c5e0ac.js",
+    "static/media/hamid.jpg": "/quiz_mine/static/media/hamid.09154a0ea0832b5191de.jpg",
+    "static/media/pic-1.jpg": "/quiz_mine/static/media/pic-1.27ecb31c61c46d46ed09.jpg",
+    "static/media/founders.JPG": "/quiz_mine/static/media/founders.07501ef24a8427f8a9ac.JPG",
+    "static/media/manan.png": "/quiz_mine/static/media/manan.119b93b5b7b0b83101e4.png",
+    "static/media/umar.JPG": "/quiz_mine/static/media/umar.f688101e1532d62d9f8b.JPG",
+    "static/media/message.png": "/quiz_mine/static/media/message.3c254f5c07ecaf7dc492.png",
+    "index.html": "/quiz_mine/index.html",
+    "main.e4cb0b4f.css.map": "/quiz_mine/static/css/main.e4cb0b4f.css.map",
+    "main.c6c5e0ac.js.map": "/quiz_mine/static/js/main.c6c5e0ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4cb0b4f.css",
+    "static/js/main.c6c5e0ac.js"
+  ]
+}
